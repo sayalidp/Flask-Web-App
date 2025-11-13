@@ -4,38 +4,23 @@ It uses Flask, SQLAlchemy, and Flask-Login to manage users and store data.
 
 🚀 Features
 
-User signup and login
+-User signup and login
 
-Password hashing for security
+-Password hashing for security
 
-SQLite database
+-SQLite database
 
-Flask Blueprints for clean code
+-Flask Blueprints for clean code
 
-HTML templates with Jinja2
+-HTML templates with Jinja2
 
-🗂 Project Structure
-
-project/
-│
-├── website/
-│   ├── __init__.py
-│   ├── auth.py
-│   ├── views.py
-│   ├── models.py
-│   ├── static/
-│   └── templates/
-│
-├── main.py
-├── requirements.txt
-└── README.md
 
 🧠 Tech Used
 
-Python
+-Python
 
-Flask
+-Flask
 
-SQLAlchemy
+-SQLAlchemy
 
-HTML, CSS
+-HTML, CSS
